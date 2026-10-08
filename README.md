@@ -1,11 +1,11 @@
-##Food Delivery Operations & Performance Analysis – Mini Project
-###📌 Project Overview
+## Food Delivery Operations & Performance Analysis – Mini Project
+### 📌 Project Overview
 
 This mini project analyzes food delivery order data to understand business performance, customer behavior, order patterns, and delivery performance.
 
 The project uses Microsoft Excel for data cleaning, transformation, calculated fields, and analysis, and Microsoft Power BI for DAX calculations, data visualization, and dashboard creation.
 
-##🎯 Objectives
+## 🎯 Objectives
 Analyze food delivery order patterns and cuisine preferences.
 Understand customer types and ordering behavior.
 Analyze monthly revenue trends.
@@ -14,21 +14,23 @@ Examine order sizes across different cuisines.
 Understand delivery performance using delivery time, distance, traffic, and weather factors.
 Present key findings through an interactive Power BI dashboard.
 
-###📊 Dataset
+### 📊 Dataset
 
-Dataset: 150,000 Food Delivery Orders for Delivery Time Prediction and Business Analytics
+## Dataset: 150,000 Food Delivery Orders for Delivery Time Prediction and Business Analytics
 
-Source: Google Dataset Search
-Dataset updated: July 9, 2026
-Records used: 500+ records
-Original columns: 21
-Domain: Food Delivery / E-commerce / Business Analytics
-🛠️ Tools & Technologies
+# Source: Google Dataset Search
+# Dataset updated: July 9, 2026
+# Records used: 500+ records
+# Original columns: 21
+## Domain: Food Delivery / E-commerce / Business Analytics
+
+## 🛠️ Tools & Technologies
 Microsoft Excel – Data cleaning, formatting, validation, calculated fields, filtering, sorting, and Pivot Table analysis.
 Microsoft Power BI – Data visualization, DAX measures, interactive charts, slicers, and dashboard creation.
-🧹 Data Preparation
 
-The dataset was reviewed and prepared in Excel before importing it into Power BI.
+## 🧹 Data Preparation
+
+## The dataset was reviewed and prepared in Excel before importing it into Power BI.
 
 Calculated Fields Created
 Profit_Margin_%
@@ -38,7 +40,7 @@ Order Size Category
 Delivery Efficiency (KM/Min)
 📐 Power BI DAX Measures
 
-Four DAX measures were created:
+## Four DAX measures were created:
 
 Total Orders
 Total Revenue
@@ -47,9 +49,9 @@ Average Delivery Time
 
 These measures were used in the dashboard to display key business performance indicators.
 
-####📈 Power BI Visualizations
+## 📈 Power BI Visualizations
 
-The dashboard includes:
+## The dashboard includes:
 
 1. Orders by Cuisine Type
 
@@ -67,11 +69,11 @@ A pie chart used to show the distribution of orders across customer types.
 
 A bar chart used to compare order sizes across different cuisines.
 
-###Dashboard
+## Dashboard
 
 The Power BI dashboard combines the key visualizations, KPI cards, and slicers to provide an interactive view of food delivery performance.
 
-###🔍 Key Project Findings
+## 🔍 Key Project Findings
 Order volumes vary across different cuisine types, indicating differences in customer preferences.
 Monthly revenue shows variations across different months.
 Customer types have different contributions to overall order volume.
@@ -81,9 +83,9 @@ Revenue, profit, and profit margin help evaluate overall business performance.
 Customer ratings and the Customer Satisfaction Flag provide insights into customer experience.
 Demand Score and Churn Risk provide additional indicators for understanding potential future demand and customer retention.
 
-###💡 Business Insights
+## 💡 Business Insights
 
-The analysis can help businesses:
+## The analysis can help businesses:
 
 Identify popular cuisine categories.
 Monitor monthly revenue patterns.
