@@ -18,13 +18,14 @@ Present key findings through an interactive Power BI dashboard.
 
 ## Dataset: 150,000 Food Delivery Orders for Delivery Time Prediction and Business Analytics
 
-# Source: Google Dataset Search
-# Dataset updated: July 9, 2026
-# Records used: 500+ records
-# Original columns: 21
-## Domain: Food Delivery / E-commerce / Business Analytics
+ Source: Google Dataset Search
+ Dataset updated: July 9, 2026
+ Records used: 500+ records
+ Original columns: 21
+ Domain: Food Delivery / E-commerce / Business Analytics
 
 ## 🛠️ Tools & Technologies
+
 Microsoft Excel – Data cleaning, formatting, validation, calculated fields, filtering, sorting, and Pivot Table analysis.
 Microsoft Power BI – Data visualization, DAX measures, interactive charts, slicers, and dashboard creation.
 
